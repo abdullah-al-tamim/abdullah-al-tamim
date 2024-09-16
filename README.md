@@ -1,8 +1,8 @@
-![Black Yellow Modern Programmer LinkedIn Banner (1)](https://github.com/user-attachments/assets/37326679-1be3-4306-8956-fe119dbc4dfc)
 
-<img align="right" alt="coding" src ="https://github.com/user-attachments/assets/37326679-1be3-4306-8956-fe119dbc4dfc">
+
+<img align="center" alt="Github Profile Banner" src ="https://github.com/user-attachments/assets/37326679-1be3-4306-8956-fe119dbc4dfc">
 <h1 align="center">Hi 👋, I'm Abdullah al Tamim</h1>
-<h3 align="center">Recent Computer Science graduate with a passion for ML/AI software. Eager to apply my skills in innovative projects.</h3>
+<h3 align="center">Recent Computer Science graduate with a passion for ML/AI software. Eager to apply my skills to innovative projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-al-tamim" alt="abdullah-al-tamim" /></a> </p>
 
