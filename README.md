@@ -2,7 +2,7 @@
 
 <img align="center" alt="Github Profile Banner" src ="https://github.com/user-attachments/assets/37326679-1be3-4306-8956-fe119dbc4dfc">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tamim!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋,+I'm+Tamim!;" />
 </h1>
 <h3 align="center">Recent Computer Science graduate with a passion for ML/AI software. Eager to apply my skills to innovative projects.</h3>
 
@@ -20,8 +20,8 @@
 
 - ⚡ Fun fact **I'm a huge fan of Breaking Bad. So, guess my Plan B? 😉**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-al-tamim-59778520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-al-tamim-59778520a/" height="30" width="40" /></a>
 <a href="https://fb.com/tamim.977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamim.977" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullah.al.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah.al.tamim" height="30" width="40" /></a>
