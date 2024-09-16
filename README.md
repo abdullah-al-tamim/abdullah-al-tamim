@@ -1,3 +1,5 @@
+![Black Yellow Modern Programmer LinkedIn Banner](https://github.com/user-attachments/assets/37536c0a-c81d-4e86-9d87-ede97a634910)
+
 <img align="right" alt="coding" src ="https://drive.google.com/file/d/1z-OVoN9Y8x3FbKt_XMCQp8tkNo96s1lK/view?usp=sharing">
 <h1 align="center">Hi 👋, I'm Abdullah al Tamim</h1>
 <h3 align="center">Recent Computer Science graduate with a passion for ML/AI software. Eager to apply my skills in innovative projects.</h3>
