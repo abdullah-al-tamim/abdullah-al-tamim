@@ -1,4 +1,3 @@
-![Black Yellow Modern Programmer LinkedIn Banner]()
 
 <img align="right" alt="coding" src ="https://github.com/user-attachments/assets/37536c0a-c81d-4e86-9d87-ede97a634910">
 <h1 align="center">Hi 👋, I'm Abdullah al Tamim</h1>
