@@ -6,8 +6,6 @@
 </h1>
 <h3 align="center">Recent Computer Science graduate with a passion for ML/AI software. Eager to apply my skills to innovative projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-al-tamim" alt="abdullah-al-tamim" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Decoding Object Shapes from EEG Signals of the Brain**
