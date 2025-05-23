@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Decoding Object Shapes from EEG Signals of the Brain**
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **Playwright**
 
 - 💬 Ask me about **Python, Django, Java**
 
