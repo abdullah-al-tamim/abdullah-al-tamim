@@ -1,4 +1,4 @@
-<img align="center" alt="Github Profile Banner" src="https://github.com/user-attachments/assets/37326679-1be3-4306-8956-fe119dbc4dfc">
+<!-- <img align="center" alt="Github Profile Banner" src="https://github.com/user-attachments/assets/37326679-1be3-4306-8956-fe119dbc4dfc"> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello,+I'm+Abdullah+Al+Tamim" />
