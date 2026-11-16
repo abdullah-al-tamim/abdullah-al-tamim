@@ -49,6 +49,17 @@ I primarily work on systems that sit between engineering, operations, and analyt
 
 ---
 
+## Certifications & Continuous Learning
+- **HackerRank — SQL (Advanced)** (16 November 2026; credential ID: `32A7B6D22633`)
+- **Microsoft Learn — Integrate MCP Tools with Azure AI Agents** (completed 16 November 2026)
+- **HackerRank — SQL (Intermediate)** ([verified certificate](https://www.hackerrank.com/certificates/712f0a16295e))
+- **B-JET Basic & Basic Plus**, North South University / University of Miyazaki (2024) — Japanese language, workplace culture, etiquette and IT training.
+
+## Education & Research
+- **BSc in Computer Science and Engineering**, East West University (2020–2024), CGPA **3.88/4.00**, Magna Cum Laude; 100% merit scholarship.
+- Co-author of [*Unveiling Microorganism Diversity through Neural Network-driven Classification*](https://doi.org/10.1109/COMPAS60761.2024.10796528), IEEE COMPAS 2024.
+- Undergraduate thesis team lead for an exploratory EEG-based object-shape classification project using CWT, FFT, YOLOv8 and Random Forest; research remains unpublished.
+
 ## Professional Interests
 - Data platform reliability
 - Scalable automation patterns
